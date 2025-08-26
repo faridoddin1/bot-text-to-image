@@ -12,4 +12,4 @@ compute(workers)- worker & pages - create - hello world - deploy - edit code
    
 5- set webhook: https://api.telegram.org/botBOT_TOKEN/setWebhook?url=https://WORKER_ADDRESS.workers.dev
 
-6. any question in telegram group: t.me/APPXA
+6. any question in telegram group: https://t.me/APPXA
